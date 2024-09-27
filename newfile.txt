@@ -1,0 +1,6 @@
+
+This is a new text file
+
+I want to learn how to push a local project on github
+
+
